@@ -1,0 +1,7 @@
+# WeatherApp
+
+The main purpose of this repository is to demonstrate mobile app development
+and enable interaction with [FullStackEmbedded's WeatherServer] from an Android
+device.
+
+[1]: https://github.com/FullStackEmbedded/WeatherApp
